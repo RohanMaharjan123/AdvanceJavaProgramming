@@ -1,7 +1,6 @@
 package Exercise.JTextFieldExample;
 
 import javax.swing.*;
-import java.awt.*;
 
 public class JTextFieldExample {
     public static void main(String[] args) {
