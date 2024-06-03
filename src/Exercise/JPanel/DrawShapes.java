@@ -2,7 +2,7 @@ package Exercise.JPanel;
 
 import javax.swing.*;
 import java.awt.*;
-
+// 2
 public class DrawShapes extends JPanel {
     @Override
     protected void paintComponent(Graphics g) {

@@ -1,7 +1,7 @@
 package Exercise.JFrame;
 
 import javax.swing.*;
-
+// 1
 public class JframeExample {
     public static void main(String[] args) {
         JFrame frame = new JFrame();
