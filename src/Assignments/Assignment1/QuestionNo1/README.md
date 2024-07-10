@@ -1,4 +1,4 @@
-## BasicC#
+## Basic GUI Program using JFrame.
 
 Name: Basic GUI program using JFrame.
 
