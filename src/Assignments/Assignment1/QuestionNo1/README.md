@@ -40,4 +40,4 @@ public class Display {
 
 ## Output
 
-![Program to Display a JFrame](./output.png)
+![Program to Display a JFrame](./src/Assignments/Assignment1/QuestionNo1/output.png)
