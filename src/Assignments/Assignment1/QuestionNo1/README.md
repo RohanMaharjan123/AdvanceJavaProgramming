@@ -1,4 +1,13 @@
-package Assignment1.QuestionNo1;
+## BasicC#
+
+Name: Basic GUI program using JFrame.
+
+Date: July 10th, 2024
+
+## Source Code
+
+   ```java
+  package Assignment1.QuestionNo1;
 
 import javax.swing.*;
 import java.util.logging.*;
@@ -27,3 +36,8 @@ public class Display {
         logger.info("Frame is now visible.");
     }
 }
+    ```
+
+## Output
+
+![Program to Display a JFrame](./output.png)
