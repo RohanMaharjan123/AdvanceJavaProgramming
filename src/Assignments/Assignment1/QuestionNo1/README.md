@@ -36,7 +36,7 @@ public class Display {
         logger.info("Frame is now visible.");
     }
 }
-    ```
+```
 
 ## Output
 
