@@ -1,13 +1,13 @@
-## Basic GUI Program using JFrame.
+# Basic GUI Program using JFrame
 
-Name: Basic GUI program using JFrame.
+**Name**: Basic GUI Program using JFrame
 
-Date: July 10th, 2024
+**Date**: July 10th, 2024
 
 ## Source Code
 
-   ```java
-  package Assignment1.QuestionNo1;
+```java
+package Assignment1.QuestionNo1;
 
 import javax.swing.*;
 import java.util.logging.*;
@@ -40,4 +40,4 @@ public class Display {
 
 ## Output
 
-[Program to Display a JFrame](output.png)
+![Program to Display a JFrame](output.png)
