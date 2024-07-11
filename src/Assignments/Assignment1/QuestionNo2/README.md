@@ -1,3 +1,12 @@
+# Basic GUI Program for implementing custom JFrame
+
+**Name**: Basic GUI Program for implementing custom JFrame
+
+**Date**: July 12th, 2024
+
+## Source Code
+
+```java
 package Assignment1.QuestionNo2;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
@@ -28,3 +37,9 @@ public class CustomDisplay {
         frame.setVisible(true);
     }
 }
+
+```
+
+## Output
+
+![Program to Display a JFrame](./output.png)
