@@ -1,3 +1,12 @@
+# GUI Program for displaying a Textbox asking for UserID.
+
+**Name**: GUI Program for displaying a Textbox asking for UserID.
+
+**Date**: July 24th, 2024
+
+## Source Code
+
+```java
 package Assignment1.QuestionNo6;
 
 import javax.swing.*;
@@ -20,3 +29,8 @@ public class DisplayUserID {
         frame.setVisible(true);
     }
 }
+```
+
+## Output
+
+![GUI Program for displaying a Textbox asking for UserID.](./output.png)
