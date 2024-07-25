@@ -1,3 +1,12 @@
+# GUI Program for displaying three buttons having fruits name on it.
+
+**Name**: GUI Program for displaying three buttons having fruits name on it.
+
+**Date**: July 20th, 2024
+
+## Source Code
+
+```java
 package QuestionNo4;
 
 import javax.swing.*;
@@ -23,3 +32,9 @@ public class buttons {
         frame.setVisible(true);
     }
 }
+
+```
+
+## Output
+
+![GUI Program for displaying three buttons having fruits name on it.](./output.png)
