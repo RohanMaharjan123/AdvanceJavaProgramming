@@ -1,3 +1,12 @@
+# GUI Program displays checkboxes for subjects and payment options
+
+**Name**: GUI Program  displays checkboxes for subjects and payment options
+
+**Date**: August 13th, 2024
+
+## Source Code
+
+```java
 package QuestionNo3;
 
 import java.awt.GridLayout;
@@ -43,3 +52,8 @@ public class CheckboxGUI {
         frame.setVisible(true);
     }
 }
+```
+
+## Output
+
+![GUI Program  displays checkboxes for subjects and payment options](./output.png)
